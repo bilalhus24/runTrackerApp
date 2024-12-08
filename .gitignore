@@ -1,0 +1,35 @@
+# Node.js
+/node_modules
+/.pnp
+.pnp.js
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+**/node_modules
+/.yarn
+
+# Build files
+dist/
+build/
+
+# Environment variables
+*.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven
+/target
+*.log
+mvnw*
+
